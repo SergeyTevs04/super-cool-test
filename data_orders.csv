@@ -1,0 +1,9 @@
+order_id,date,product,category,quantity,price,region
+1001,2025-01-01,Laptop,Electronics,1,1200.00,North
+1002,2025-01-02,Mouse,Electronics,2,25.50,South
+1003,2025-01-02,Desk Chair,Furniture,1,150.00,West
+1004,2025-01-03,Notebook,Stationery,10,5.00,North
+1005,2025-01-04,Monitor,Electronics,1,300.00,East
+1006,2025-01-05,Coffee Table,Furniture,1,200.00,West
+1007,2025-01-05,Mouse,Electronics,5,25.50,North
+

@@ -67,6 +67,6 @@ def main():
         save_data(processed_data)
     print(f'{datetime.now()} - {len(files)} processed') # В такое то время программа закончила выполняться и она обработала столько-то файлов 
 
-if __name__ == '__main__': # ?
-    main()
+# if __name__ == '__main__': # ?
+#     main()
 

@@ -1,0 +1,8 @@
+2026-02-19 10:03:01.112609 - 0 processed
+2026-02-19 10:04:00.265889 - 0 processed
+> /Users/sergejtevs/Desktop/Projects/ecom/data_processor/processor.py(68)main()
+-> breakpoint()
+(Pdb) 
+Quitting pdb will kill the process. Quit anyway? [y/n] 
+2026-02-19 10:06:00.755642 - 0 processed
+
